@@ -6,6 +6,8 @@
 
 - [ **关于回答数分布统计**](analyze_answer_time_series.ipynb)
 
+- [ **关于问题分词统计**](analyze_question_title_words.ipynb)
+
 - [ **关于问题编程语言统计**](analyze_program_lang.ipynb)
 
 
